@@ -10,6 +10,7 @@ body {
     font-family: Calibri;
     padding: 0;
     margin: 0;
+    color: #ffffff;
 }
 
 header {
@@ -27,7 +28,10 @@ header {
     padding: 1px;
     margin-left: 12em;
     margin-right: 12em;
-    border: 5px #ffffff solid;
+}
+
+#SOOmission {
+    text-decoration: underline;
 }
 
 
